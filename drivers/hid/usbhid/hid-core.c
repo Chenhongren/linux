@@ -39,7 +39,7 @@
  * Version Information
  */
 
-#define DRIVER_DESC "USB HID core driver"
+#define DRIVER_DESC "ITE Debug USB HID core driver"
 
 /*
  * Module parameters.
